@@ -254,7 +254,7 @@ int main(){
         }
 
         // Initiate when calculations are done
-        cout<<"\nXX: Press any key to continue...\n\n\n";
+        cout<<"\nOperation Exited. Now going back to main menu...\n\n\n\n";
         //_getch();
 
     } while (op != 'X' && op != 'x');
