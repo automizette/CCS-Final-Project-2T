@@ -1,5 +1,5 @@
 #include <iostream>
-#include <conio.h>
+//#include <conio.h>
 #include <iomanip>
 #include <string>
 
@@ -255,7 +255,7 @@ int main(){
 
         // Initiate when calculations are done
         cout<<"\nXX: Press any key to continue...\n\n\n";
-        _getch();
+        //_getch();
 
     } while (op != 'X' && op != 'x');
     cout<<"\n Thank you for using the program!";
